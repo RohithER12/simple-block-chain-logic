@@ -14,7 +14,7 @@ This project implements a simple blockchain library in Go, allowing users to man
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/blockchain-library.git
+    git clone https://github.com/RohithER12/simple-block-chain-logic.git
     ```
 
 2. **Change into the project directory:**
