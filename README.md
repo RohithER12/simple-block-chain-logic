@@ -20,7 +20,7 @@ This project implements a simple blockchain library in Go, allowing users to man
 2. **Change into the project directory:**
 
     ```bash
-    cd blockchain-library
+    cd simple-block-chain-logic
     ```
 
 3. **Install dependencies:**
